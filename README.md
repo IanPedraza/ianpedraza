@@ -1,7 +1,7 @@
 <h1 align='center'>Hi there, I'm Ian Pedraza 🧑‍💻</h1>
 
 <p align='center'>
-   Android Mobile Developer, well-versed in technologies like Android, Kotlin, Compose, Mockito, Firebase, Hilt, Flutterm Clean Architecture, and more. I create clean and awesome solutions.
+   Android Mobile Developer, well-versed in technologies like Android, Kotlin, Compose, Mockito, Firebase, Hilt, Flutter, Clean Architecture, and more. I create clean and awesome solutions.
 </p>
 
 <p align='center'>
