@@ -16,10 +16,11 @@
 <h4>⚒&nbsp;&nbsp;&nbsp;Technologies</h4>
 <p >
   <img src="https://img.shields.io/badge/android%20-%234CB159.svg?&style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/kotlin%20-%23F18608.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Android_Studio%20-%232970E3.svg?&style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/kotlin%20-%23BB18DD.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/compose%20-%23062F40.svg?&style=for-the-badge&logo=compose&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mockito%20-%234CB159.svg?&style=for-the-badge&logo=mockito&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/hilt%20-%234CB159.svg?&style=for-the-badge&logo=hilt&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/compose%20-%234CB159.svg?&style=for-the-badge&logo=compose&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/flutter%20-%235DC3EF.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/git%20-%23F05133.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/firebase%20-%23FFCB2D.svg?&style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
