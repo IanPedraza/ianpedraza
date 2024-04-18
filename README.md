@@ -12,7 +12,7 @@
 </p>
 
 ## Technologies
-<p >
+<p>
   <img src="https://img.shields.io/badge/android%20-%234CB159.svg?&style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Android_Studio%20-%232970E3.svg?&style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/kotlin%20-%23BB18DD.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
