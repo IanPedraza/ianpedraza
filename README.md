@@ -30,8 +30,8 @@
 <table>
    <tr>
       <td width="50%">
-         <a width="100%" href="https://play.google.com/store/apps/details?id=com.cardroidlauncher.app" target="_blank">
-            <img src="https://imgur.com/8UrKzsh.png" style="width: 100%; height: 50%; object-fit: contain;" alt="Cardroid Launcher">
+         <a href="https://play.google.com/store/apps/details?id=com.cardroidlauncher.app" target="_blank">
+            <img src="https://imgur.com/8UrKzsh.png" style="max-width: 64px; max-height: 64px; width: auto; height: auto; object-fit: contain;" alt="Cardroid Launcher">
          </a>
          <h3>Cardroid Launcher</h3>
          <p>An Android launcher designed for cards made with compose</p>
@@ -43,8 +43,8 @@
          <br>
       </td>
       <td width="50%">
-         <a width="100%" href="https://wordles.online/" target="_blank">
-            <img src="https://ianpedraza.com/assets/img/cover/wordles-cover.png" style="width: 100%; height: 50%; object-fit: contain;" alt="WordlEs">
+         <a href="https://wordles.online/" target="_blank">
+            <img src="https://imgur.com/jxvmqYg.png" style="max-width: 64px; max-height: 64px; width: auto; height: auto; object-fit: contain;" alt="WordlEs">
          </a>
          <h3>WordlEs</h3>
          <p>The game Wordle in Spanish created with Flutter</p>
@@ -58,8 +58,8 @@
    </tr> 
    <tr>
       <td width="50%">
-         <a width="100%" href="https://play.google.com/store/apps/details?id=com.sigsag.app" target="_blank">
-            <img src="https://imgur.com/11sRzYs.png"  style="width: 100%; height: 50%; object-fit: contain;" alt="SigSag">
+         <a href="https://play.google.com/store/apps/details?id=com.sigsag.app" target="_blank">
+            <img src="https://imgur.com/11sRzYs.png"  style="max-width: 64px; max-height: 64px; width: auto; height: auto; object-fit: contain;" alt="SigSag">
          </a>
          <h3>SigSag</h3>
          <p>Live auctions and raffles made with Flutter</p>
@@ -71,8 +71,8 @@
          <br>
       </td>
       <td width="50%">
-         <a width="100%" href="https://ianpedraza.com/adomi/" target="_blank">
-            <img src="https://ianpedraza.com/assets/img/cover/adomi-screens.jpg" style="width: 100%; height: 50%; object-fit: contain;" alt="Adomi">
+         <a href="https://ianpedraza.com/adomi/" target="_blank">
+            <img src="https://ianpedraza.com/assets/img/cover/adomi-screens.jpg" style="max-width: 64px; max-height: 64px; width: auto; height: auto; object-fit: contain;" alt="Adomi">
          </a>
          <h3>Adomi</h3>
          <p>Super delivery app</p>
