@@ -40,6 +40,7 @@
                <img src="https://img.shields.io/badge/Source-fff?style=for-the-badge&logo=github&logoColor=black"/>
             </a>
          </p>
+         <br>
       </td>
       <td width="50%">
          <a href="https://wordles.online/" target="_blank">
@@ -52,6 +53,7 @@
                <img src="https://img.shields.io/badge/Source-fff?style=for-the-badge&logo=github&logoColor=black">
             </a>
          </p>
+         <br>
       </td>
    </tr> 
    <tr>
@@ -66,6 +68,7 @@
                <img src="https://img.shields.io/badge/Source-fff?style=for-the-badge&logo=github&logoColor=black"/>
             </a>
          </p>
+         <br>
       </td>
       <td width="50%">
          <a href="https://ianpedraza.com/adomi/" target="_blank">
@@ -78,6 +81,7 @@
                <img src="https://img.shields.io/badge/Source-fff?style=for-the-badge&logo=github&logoColor=black">
             </a>
          </p>
+         <br>
       </td>
    </tr> 
 </table>  
