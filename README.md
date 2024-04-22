@@ -1,8 +1,11 @@
-## Hi there, I'm Ian Pedraza 🧑‍💻
+## Hello! I'm Ian Pedraza 🧑‍💻
 
-<p>
-   Android Mobile Developer, well-versed in technologies like Android, Kotlin, Compose, Mockito, Firebase, Hilt, Flutter, Clean Architecture, and more. I create clean and awesome solutions.
-</p>
+<p>I'm a passionate Android developer on a mission to share my experience and knowledge as I continue to forge my path in this exciting world of technology.</p>
+
+<p>On my website, I invite you to explore my portfolio, where you'll find some of the projects I've worked on and the achievements I've reached so far. From innovative applications to creative solutions, each project is another step in my journey of continuous learning.</p>
+
+<p>I firmly believe in the motto of "never stop learning," and that's why I'm here, sharing what I've learned and discovered in my career as an Android developer. Whether you're just starting out in this field or looking to expand your skills, I hope you'll find inspiration and useful resources here.</p>
+
 
 <p>
   <a href="https://ianpedraza.com/"><img src="https://img.shields.io/badge/website-%23006CFF.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
